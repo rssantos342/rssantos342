@@ -18,7 +18,7 @@ My name is Ricardo Santos, and I'm currently studying at [**42 Porto**](https://
 
 ## This is my current status at school:
 
-[![ride-sou's 42 stats](https://badge.mediaplus.ma/darkblue/ride-sou?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![ride-sou's 42 stats](https://badge.mediaplus.ma/darkblue/ride-sou?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/ride-sou)
 
 <!--
 **rssantos342/rssantos342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
