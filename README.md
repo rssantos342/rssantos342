@@ -7,7 +7,6 @@ My name is Ricardo Santos, and I'm currently studying at [**42 Porto**](https://
 - 👷 Master degree in Civil Engineering;
 - 🌍 Around 10 years experience as Structural Engineer, between Porto and London;
 - ⚽ Passionate about Sport;
-- 📬 You can reach me on [**LinkedIn**](www.linkedin.com/in/ricardosousasantos).
 
 ## These are the languages and tools I've worked on so far:
 ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
