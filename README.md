@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ricardo Santos, and I'm currently studying at [**42 Porto**](https://www.42porto.com), after successfully passed the Piscine.
+My name is Ricardo Santos, and I'm currently studying at [**42 Porto**](https://www.42porto.com), after successfully passed the Piscine#4.
 
 ## About me:
 
