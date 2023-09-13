@@ -5,7 +5,7 @@ My name is Ricardo Santos, and I'm currently studying at [**42 Porto**](https://
 ## About me:
 
 - 👷 Master degree in Civil Engineering at FEUP;
-- 🌍 Around 10 years experience as Structural Engineer, between Porto and London;
+- 🌍 Experience of 10 years as Structural Engineer, between Porto and London;
 - ⚽ Passionate about Sport;
 
 ## These are the languages and tools I've worked on so far:
