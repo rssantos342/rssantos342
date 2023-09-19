@@ -1,21 +1,21 @@
-## Hi 👋
+### Hi 👋
 
 My name is Ricardo Santos, and I'm currently studying at [**42 Porto**](https://www.42porto.com), after successfully passed the Piscine#4.
 
-## About me:
+### About me:
 
 - 👷 Master degree in Civil Engineering at FEUP;
 - 🌍 Experience of 10 years as Structural Engineer, between Porto and London;
 - ⚽ Passionate about Sport;
 
-## These are the languages and tools I've worked on so far:
+### These are the languages and tools I've worked on so far:
 ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
 ![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
 ![Github](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3893F5)
 
-## This is my current status at school:
+### This is my current status at school:
 
 [![ride-sou's 42 stats](https://badge.mediaplus.ma/darkblue/ride-sou?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/ride-sou)
 
